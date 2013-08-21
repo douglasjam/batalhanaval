@@ -12,3 +12,12 @@ Humano x Outra maquina na rede (Humano, inteligencia, random)
 
 Foi utilizado a linguagem Java 6.
 
+Screenshots do game podem ser encontrados abaixo:
+
+<img src="screenshots/1.jpg" />
+
+<img src="screenshots/2.jpg" />
+
+<img src="screenshots/3.jpg" />
+
+<img src="screenshots/4.jpg" />
